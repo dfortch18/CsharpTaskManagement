@@ -1,0 +1,9 @@
+# Csharp build
+bin/
+obj/
+
+# VScode
+.vscode/
+
+# Temp
+tasks.json
